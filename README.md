@@ -27,13 +27,13 @@ A continuación se presentan las instrucciones de uso para el juego:
 4. Si seleccionas el modo multijugador, el segundo jugador puede utilizar las teclas Z, X, C, D y E para generar cubos adicionales en distintas posiciones y dificultar el juego del jugador principal.
 5. Una vez que hayas seleccionado la música y el tipo de juego, presiona la tecla Enter para iniciar el juego.
 
-![Texto alternativo](Assets/Img/20230708_115737.mp4)
 
 Demo del Juego
 
-
-
 https://github.com/MoisesSalazar/BeatSaber/assets/42578698/1aa3e25c-c24a-4307-a6ce-2ab8423d0bb2
 
+
+
+https://github.com/MoisesSalazar/BeatSaber/assets/42578698/03628718-832d-42f3-a11c-ad0c3c9c0f1a
 
 
