@@ -32,3 +32,8 @@ A continuación se presentan las instrucciones de uso para el juego:
 Demo del Juego
 
 
+
+https://github.com/MoisesSalazar/BeatSaber/assets/42578698/1aa3e25c-c24a-4307-a6ce-2ab8423d0bb2
+
+
+
