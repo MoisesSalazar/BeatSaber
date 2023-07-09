@@ -27,6 +27,8 @@ A continuación se presentan las instrucciones de uso para el juego:
 4. Si seleccionas el modo multijugador, el segundo jugador puede utilizar las teclas Z, X, C, D y E para generar cubos adicionales en distintas posiciones y dificultar el juego del jugador principal.
 5. Una vez que hayas seleccionado la música y el tipo de juego, presiona la tecla Enter para iniciar el juego.
 
+![Texto alternativo](Assets/Img/20230708_115737.mp4)
 
-![Texto alternativo](Assets/Img/as.jpg)
+Demo del Juego
+
 
