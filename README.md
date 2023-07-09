@@ -28,15 +28,20 @@ A continuación se presentan las instrucciones de uso para el juego:
 5. Una vez que hayas seleccionado la música y el tipo de juego, presiona la tecla Enter para iniciar el juego.
 
 
-Menu del juego
+**Menu del juego**
 
 https://github.com/MoisesSalazar/BeatSaber/assets/42578698/1aa3e25c-c24a-4307-a6ce-2ab8423d0bb2
 
+**Multijugador**
 
+https://github.com/MoisesSalazar/BeatSaber/assets/42578698/fe84e6d2-b41c-4363-a156-2256dd974690
 
-Demo del Juego
+**Demo del Juego**
 
 https://github.com/MoisesSalazar/BeatSaber/assets/42578698/232f57a8-d669-4abd-afe3-fb3fd81e45cc
+
+
+
 
 
 
